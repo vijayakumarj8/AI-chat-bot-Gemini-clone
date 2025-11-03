@@ -24,7 +24,7 @@ const Main = () => {
                 ?
                 <>
                     <div className="greet">
-                    <p><span>Hello,ajay.</span></p>
+                    <p><span>Hello,Dude.</span></p>
                     <p>How can i help you today?</p>
                 </div>
                 <div className="cards">
